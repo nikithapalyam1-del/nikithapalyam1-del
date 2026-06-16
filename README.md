@@ -1,6 +1,6 @@
 # Hi, I'm Nikhitha Palyam 👋
 
-🎓 B.Tech 3rd Year Student
+🎓 B.Tech 4th Year Student
 
 📊 Aspiring Data Analyst
 
