@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Nikhitha Palyam 👋
 
-<!--
-**nikithapalyam1-del/nikithapalyam1-del** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech 3rd Year Student
 
-Here are some ideas to get you started:
+📊 Aspiring Data Analyst
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- SQL
+- MySQL
+- Excel
+- Power BI
+- Python
+
+## Currently Learning
+- Advanced SQL
+- Data Analytics
+- Power BI
+
+## Projects
+### SQL Retail Sales
+Analyzed retail sales data using SQL and generated business insights.
+
+## Goals
+- Become a Software Engineer
+- Build Data Analytics Projects
+- Improve Problem Solving Skills
+
+## Contact
+📧 nikitha.palyam1@gmail.com
